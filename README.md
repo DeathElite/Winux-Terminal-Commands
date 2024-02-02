@@ -1,2 +1,5 @@
 # Winux-Terminal-Commands
-Making Linux Terminal Commands available on  Windows cmd
+
+Winux terminal commands is a fun little project thatt adds some extra functionality to your cmd ;)
+
+Unfortunately this only works on Windows so far
